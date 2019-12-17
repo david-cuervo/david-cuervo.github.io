@@ -1,11 +1,11 @@
 # Site settings
-author: David  Cuervo
-title: 
+author: David Cuervo
+title: A Self Paced Journey
 header-img: img/home-bg.png
 email: david.ecuervo@gmail.com
-copyright_name: David  Cuervo
+copyright_name: David Cuervo
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Documenting data science lessons learned
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  david-cuervo
