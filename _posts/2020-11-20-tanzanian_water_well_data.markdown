@@ -21,7 +21,7 @@ By the time I finished cleaning up the dataset, I ended up dropping 18 columns a
 
 Shout out to my patient and brilliant instuctor extraordinaire Jeff Herman for introducing Boruta to me. Here is a link that describes Boruta pretty clearly:
 
-[http://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a]
+[Boruta explained](https://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a)
 
 Basically, Boruta creates "shadow features" that are randomized duplicates of each original feature. The original features then compete with these shadow features instead of competing with themselves. Then Boruta repeats the process multiple times to obtain the best results. The process did take some time (it took me at least 30 min to run) but it was definitley worth it.
 
